@@ -5,7 +5,7 @@ This app was made using Toastify, Immer and others libs too.
 
 ## Live Demo
 
-Check this on (https://react-redux-shopcart.netlify.com/)[Live Demo]
+Check this on [https://react-redux-shopcart.netlify.com/](Live Demo)
 
 ## Screenshots
 
