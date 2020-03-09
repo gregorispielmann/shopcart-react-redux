@@ -3,6 +3,10 @@
 A simple responsive shop cart made with React.js, Redux, Redux-Form and Material-UI.
 This app was made using Toastify, Immer and others libs too.
 
+## Live Demo
+
+Check this on (https://react-redux-shopcart.netlify.com/)[Live Demo]
+
 ## Screenshots
 
 <div style="display: flex">
