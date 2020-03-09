@@ -3,8 +3,6 @@ import Grid from '@material-ui/core/Grid';
 
 import Product from '~/components/Product';
 
-// import { Container } from './styles';
-
 import data from '~/data';
 
 export default function ProductList() {
