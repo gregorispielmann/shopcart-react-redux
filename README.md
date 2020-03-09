@@ -1,6 +1,6 @@
 # Shop Cart
 
-A simple shop cart made with Reactjs, Redux, Redux-Form and Material-UI.
+A simple responsive shop cart made with Reactjs, Redux, Redux-Form and Material-UI.
 This app was made using Toastify, Immer and others libs too.
 
 ## Screenshots
