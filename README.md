@@ -7,7 +7,7 @@ This app was made using Toastify, Immer and others libs too.
 
 <div style="display: flex">
   <img src="screenshots/screenshot0.png" width="100%"/>
-  <img src="screenshots/screenshot1.png" width="60%"/>
+  <img src="screenshots/screenshot1.png" width="50%"/>
   <img src="screenshots/screenshot2.png" width="40%"/>
 </div>
 
