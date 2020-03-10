@@ -54,7 +54,10 @@ export default createGlobalStyle`
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+
   }
+
   h1 {
     color: #536E7A;
     font-size: 24px;
@@ -63,9 +66,9 @@ export default createGlobalStyle`
   }
 
   input[type=number]::-webkit-inner-spin-button,
-input[type=number]::-webkit-outer-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
 
 `;
